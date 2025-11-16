@@ -147,6 +147,7 @@ https://github.com/neD555/shvirtd-example-python
 
 ### Решение.
 
+<img width="523" height="290" alt="Задача 6 1" src="https://github.com/user-attachments/assets/9092522f-36bc-4112-be61-ce1e3167799c" />
 
 
 ### Задача 6.2 (**).
