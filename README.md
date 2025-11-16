@@ -129,6 +129,15 @@ https://github.com/neD555/shvirtd-example-python
 Предоставьте скриншоты действий.
 
 ### Решение.
+<img width="648" height="222" alt="Задача 6(1)" src="https://github.com/user-attachments/assets/4d15fe8c-5f26-4c47-aae6-f44b2c7717b2" />
+
+<img width="643" height="76" alt="Задача 6(2)" src="https://github.com/user-attachments/assets/b934df7c-e648-40ee-afef-0785b08f80ef" />
+
+<img width="1900" height="1005" alt="Задача 6(3)" src="https://github.com/user-attachments/assets/8975009d-c2db-4db0-831c-4644b3a11e47" />
+
+<img width="541" height="46" alt="Задача 6(4)" src="https://github.com/user-attachments/assets/0d69855d-df34-456f-9740-666bd3760dea" />
+
+<img width="640" height="90" alt="Задача 6(5)" src="https://github.com/user-attachments/assets/7d19d848-c112-4de7-b13f-f8587b074051" />
 
 ### Задача 6.1.
 
@@ -137,6 +146,8 @@ https://github.com/neD555/shvirtd-example-python
 Предоставьте скриншоты действий.
 
 ### Решение.
+
+
 
 ### Задача 6.2 (**).
 
